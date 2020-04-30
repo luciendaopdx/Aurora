@@ -12,7 +12,7 @@
 | $$  | $$|  $$$$$$/| $$      |  $$$$$$/| $$     |  $$$$$$$
 |__/  |__/ \______/ |__/       \______/ |__/      \_______/
                    By Tropical
-                   Maintanied by Korbs
+                   Maintanied by luciendaopdx
 TABLE OF CONTENTS
 1. Background and Sizing
   1.a. Main Background
@@ -258,7 +258,7 @@ body::before {
     padding-top:0px !important;
 }
 .wordmark-2iDDfm:after {
-    content: 'Aurora v2.7';
+    content: 'StreetxAurora';
     position: absolute !important;
     left: 5px;
     width: 100vw;
@@ -537,7 +537,7 @@ form.form-2fGMdU {
 .attachButton-1UjEWA:hover:before {
     content:'Attach FIles';
     position:absolute;
-    color:#dcddde;
+    color:#637498;
     width:contain;
     bottom:45px;
     background:var(--main-color);
@@ -1071,7 +1071,7 @@ svg.icon-3cZ1F_ {
 
 /*3.q. Tags (v2 FEATURE, REDACTED)
 .message-1PNnaP[data-user-id*="254362351170617345"] .da-timestampCozy:before {
-    content: "Aurora Dev";
+    content: "StreetxAurora Dev";
     background:var(--main-color);
     color: #fff;
     border-radius: 4px;
@@ -1101,7 +1101,7 @@ svg.icon-3cZ1F_ {
 .message-1PNnaP[data-user-id*="261354004569653248"] .da-timestampCozy:before,
 .message-1PNnaP[data-user-id*="252460828157018112"] .da-timestampCozy:before,
 .message-1PNnaP[data-user-id*="348593749372174337"] .da-timestampCozy:before {
-    content: "Aurora Bug Hunter";
+    content: "StreetxAurora Bug Hunter";
     background:var(--main-color-faded);
     color: rgba(255,255,255,0.8);
     border-radius: 4px;
@@ -1222,7 +1222,7 @@ body #app-mount .channel-2QD9_O.selected-1HYmZZ a {
     border-radius:5px;
 }
 
-/*4.b. Account Deatils Container*/
+/*4.b. Account Details Container*/
 .container-2Thooq {background:transparent !important;}
 .accountDetails-3k9g4n .username {
 	font-family:'satisfy';
@@ -2825,7 +2825,7 @@ label.checkboxWrapper-SkhIWG.alignCenter-MrlN6q {
 .join-33Tr-7 .actionIcon-2IISM_ {
 	-webkit-mask-size: cover;
 	-webkit-mask: url('data:image/svg+xml;base64,IDxzdmcgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iLTMzMCAzODIgODAgMzAiIHZlcnNpb249IjEuMSI+PHBhdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBkPSJNLTI3Myw0MDkuNUwtMjczLDQwOS41Yy00LjEsMC02LjgtMC42LTcuOS0xLjdjLTAuNS0wLjYtMC42LTEuMS0wLjYtMS4zYzAtMC43LDAuMS0yLjksMC42LTMuOGMwLjEtMC4zLDAuNS0xLDQuNS0yLjRjLTEuNi0xLjQtMi42LTQtMi42LTcuMWMwLTQuMiwyLjMtNyw1LjktNy4xbDAuMSwwYzMuNiwwLjEsNS45LDIuOCw1LjksNy4xYzAsMy4xLTEsNS43LTIuNiw3LjFjNCwxLjQsNC40LDIuMSw0LjUsMi40YzAuNCwwLjksMC41LDMuMSwwLjYsMy44YzAsMC4yLDAsMC43LTAuNiwxLjNDLTI2Ni4zLDQwOC45LTI2OC45LDQwOS41LTI3Myw0MDkuNXogTS0yNzMsNDA3LjVMLTI3Myw0MDcuNWM1LjEsMCw2LjItMC45LDYuNC0xLjFjLTAuMS0xLjEtMC4yLTIuMy0wLjMtMi43Yy0wLjYtMC40LTIuOS0xLjMtNC44LTEuOWwtMC43LTAuMmwtMC4xLTJsMC43LTAuM2MxLjctMC42LDIuOC0zLjEsMi44LTYuMWMwLTMuMS0xLjUtNS0zLjktNS4xYy0yLjUsMC00LDItNCw1LjFjMCwzLDEuMSw1LjUsMi44LDYuMWwwLjcsMC4zbC0wLjEsMmwtMC43LDAuMmMtMS45LDAuNi00LjIsMS41LTQuOCwxLjljLTAuMSwwLjQtMC4zLDEuNi0wLjMsMi43Qy0yNzkuMiw0MDYuNi0yNzgsNDA3LjUtMjczLDQwNy41eiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTQzLC0yKSIvPjxwYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZD0iTS0zMDcsMzk1IGwxNSwwIGwtNCwtNCBsMi42NiwwIGw1LDUgbC01LDUgbC0yLjY2LDAgbDQtNCBsLTE1LDAgbDAsLTIiLz48cGF0aCBkPSJNLTI3Myw0MDkuNUwtMjczLDQwOS41Yy00LjEsMC02LjgtMC42LTcuOS0xLjdjLTAuNS0wLjYtMC42LTEuMS0wLjYtMS4zYzAtMC43LDAuMS0yLjksMC42LTMuOGMwLjEtMC4zLDAuNS0xLDQuNS0yLjRjLTEuNi0xLjQtMi42LTQtMi42LTcuMWMwLTQuMiwyLjMtNyw1LjktNy4xbDAuMSwwYzMuNiwwLjEsNS45LDIuOCw1LjksNy4xYzAsMy4xLTEsNS43LTIuNiw3LjFjNCwxLjQsNC40LDIuMSw0LjUsMi40YzAuNCwwLjksMC41LDMuMSwwLjYsMy44YzAsMC4yLDAsMC43LTAuNiwxLjNDLTI2Ni4zLDQwOC45LTI2OC45LDQwOS41LTI3Myw0MDkuNXogTS0yNzMsNDA3LjVMLTI3Myw0MDcuNWM1LjEsMCw2LjItMC45LDYuNC0xLjFjLTAuMS0xLjEtMC4yLTIuMy0wLjMtMi43Yy0wLjYtMC40LTIuOS0xLjMtNC44LTEuOWwtMC43LTAuMmwtMC4xLTJsMC43LTAuM2MxLjctMC42LDIuOC0zLjEsMi44LTYuMWMwLTMuMS0xLjUtNS0zLjktNS4xYy0yLjUsMC00LDItNCw1LjFjMCwzLDEuMSw1LjUsMi44LDYuMWwwLjcsMC4zbC0wLjEsMmwtMC43LDAuMmMtMS45LDAuNi00LjIsMS41LTQuOCwxLjljLTAuMSwwLjQtMC4zLDEuNi0wLjMsMi43Qy0yNzkuMiw0MDYuNi0yNzgsNDA3LjUtMjczLDQwNy41eiIvPjxnIG9wYWNpdHk9IjAuNiI+PHBhdGggY2xhc3M9InN0MCIgZD0iTS0yNTcsNDAyLjhjMC0wLjctMC4xLTIuOS0wLjYtMy44Yy0wLjEtMC4zLTAuNS0xLTQuNS0yLjRjMS42LTEuNCwyLjYtNCwyLjYtNy4xYzAtNC4yLTIuMy03LTUuOS03LjFsLTAuMSwwYy0xLjksMC0zLjUsMC44LTQuNSwyLjJjMC42LDAuMywxLjIsMC42LDEuOCwxYzAuNy0wLjgsMS42LTEuMywyLjgtMS4zYzIuNCwwLDMuOSwyLDMuOSw1LjFjMCwzLTEuMSw1LjUtMi44LDYuMWwtMC43LDAuM2wwLjEsMmwwLjcsMC4yYzEuOSwwLjYsNC4zLDEuNSw0LjgsMS45YzAuMSwwLjQsMC4zLDEuNiwwLjMsMi43Yy0wLjIsMC4yLTEsMC44LTMuOCwxYzAuMSwwLjYsMC4yLDEuMiwwLjIsMmMyLjUtMC4yLDQuMi0wLjgsNS0xLjZDLTI1Nyw0MDMuNS0yNTcsNDAzLTI1Nyw0MDIuOHoiLz48cGF0aCBkPSJNLTI4Nyw0MDIuN2MwLjEtMS4xLDAuMi0yLjMsMC4zLTIuN2MwLjYtMC40LDIuOS0xLjMsNC44LTEuOWwwLjctMC4ybDAuMS0ybC0wLjctMC4zYy0xLjYtMC42LTIuOC0zLjEtMi44LTYuMWMwLTMuMSwxLjUtNSw0LTUuMWMxLjIsMCwyLjEsMC41LDIuOCwxLjNjMC41LTAuNCwxLjEtMC44LDEuOC0xYy0xLTEuNC0yLjYtMi4yLTQuNS0yLjJsLTAuMSwwYy0zLjYsMC01LjksMi44LTUuOSw3LjFjMCwzLjEsMSw1LjcsMi42LDcuMWMtNCwxLjQtNC40LDIuMS00LjUsMi40Yy0wLjQsMC45LTAuNSwzLjEtMC42LDMuOGMwLDAuMiwwLDAuNywwLjYsMS4zYzAuOCwwLjksMi41LDEuNCw1LjEsMS42YzAtMC43LDAuMS0xLjQsMC4yLTJDLTI4Niw0MDMuNS0yODYuOCw0MDIuOS0yODcsNDAyLjd6Ii8+PC9nPjwvc3ZnPg==') center/cover no-repeat !important;
-	background: #3ca374 !important;
+	background: #FEFBDC !important;
 }
 .item-1GzJrl.leave-1DRJfn .icon-2doZ3q {
   background-image: none !important;
@@ -2895,13 +2895,13 @@ form.modal-yWgWj-.slide-2pHaq5.size-1WIx1O.fullscreenOnMobile-1aglG_ {
     left: 0px;
 }
 .theme-light .footer-3rDWdC {
-    background-color: #f6f6f7;
-    -webkit-box-shadow: inset 0 1px 0 rgba(246,246,247,.6);
+    background-color: #637498;
+    -webkit-box-shadow: inset 0 1px 0 rgba(99,116,152,.6);
     box-shadow: none;
 }
 .theme-light .input-1mgnkM {
     color: white;
-    border-bottom-color: #e3e5e8;
+    border-bottom-color: #637498;
 }
 form.modal-yWgWj-.slide-2pHaq5.size-3BX7nn.fullscreenOnMobile-1aglG_ {
     background: transparent;
@@ -3883,7 +3883,7 @@ img[src="/assets/5fb477ca84edd15d9a2888ac28365acd.svg"] {
 }
 #ace_settingsmenu .ace_optionsMenuEntry select option {
     background-color: #303339;
-    color: #f6f6f7;
+    color: #637498;
 }
 #ace_settingsmenu input[type="checkbox"] {
     position: relative;
@@ -3914,7 +3914,7 @@ img[src="/assets/5fb477ca84edd15d9a2888ac28365acd.svg"] {
     top: 3px;
     left: 3px;
     bottom: 3px;
-    background: #f6f6f7;
+    background: #637498;
     border-radius: 10px;
     transition: all .15s ease;
     box-shadow: 0 3px 1px 0 rgba(0,0,0,.05), 0 2px 2px 0 rgba(0,0,0,.1), 0 3px 3px 0 rgba(0,0,0,.05);
@@ -4571,4 +4571,3 @@ Also, Thank you DevilBro, for letting me use his SVG's to improve the theme!*/
  	left: 30px;
  	top: 8px;
  }
-
